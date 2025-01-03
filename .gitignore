@@ -1,26 +1,6 @@
-# Archivos de entorno
 .env
-
-# Archivos de datos
 user_keys.json
 users.json
 secret.key
-
-# Cache de Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Entornos virtuales
-venv/
-env/
-.venv/
-.env/
-
-# Logs
-*.log
-
-# IDEs
-.vscode/
-.idea/
